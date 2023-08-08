@@ -1,0 +1,39 @@
+﻿
+ .introduction{
+    background-color:white;
+    color:black;
+    margin-top:25px;
+    margin-left:758px;
+    font-size:26px;
+    position:fixed;
+    width:310px;
+    flex:1;
+
+
+ }
+.introduction:hover{
+    background-color:yellow;
+    color:blue;
+    cursor:pointer;
+    transition:1.5s;
+
+}
+.not-introduction {
+    height: 590px;
+    position: fixed;
+    left: 200px;
+    bottom: 0px;
+    top: 270px;
+    font-family: Roboto, Arial;
+    font-size: 25px;
+    border-width: 10px;
+    width: 1460px;
+    display:flex;
+
+}
+    
+    
+    mark {
+    background-color: white;
+    color: black;
+}
